@@ -33,8 +33,8 @@ La clasificación con IA es opcional y pide sus propias dependencias al activars
 ## Cómo correr
 
 ```bash
-git clone https://github.com/nahataen/alist-python-project.git
-cd alist-python-project
+git clone https://github.com/nahataen/Python-Alist.git
+cd Python-Alist
 pip install requests ipywidgets ipython
 python programa.py
 ```
